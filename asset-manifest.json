@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Python_project_folder/static/css/main.c5fe6c5b.css",
+    "main.js": "/Python_project_folder/static/js/main.8fb3dcb2.js",
+    "static/media/hero.png": "/Python_project_folder/static/media/hero.26692f23e1fb43eb7307.png",
+    "static/media/frog_img.png": "/Python_project_folder/static/media/frog_img.08a742ae4b47ab474857.png",
+    "index.html": "/Python_project_folder/index.html",
+    "main.c5fe6c5b.css.map": "/Python_project_folder/static/css/main.c5fe6c5b.css.map",
+    "main.8fb3dcb2.js.map": "/Python_project_folder/static/js/main.8fb3dcb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5fe6c5b.css",
+    "static/js/main.8fb3dcb2.js"
+  ]
+}
